@@ -11,11 +11,28 @@ Welcome to the **Human Knowledge Foundation Project**! This project is dedicated
 
 We aim to explore a new paradigm of scientific discovery: shifting from "accidental exploration by geniuses" to "systematic mining assisted by AI."
 
+> **🧭 Read This First: The Core vs. The Product**
+>
+> Many people assume the "Human Knowledge Foundation Project" is the protagonist of this repository. **In fact, it is merely a product.**
+>
+> - **The Core (the source)** = a months-long, 100,000+ word intellectual marathon on **"The Nature of Intelligence."**
+> - **The Product (the landing)** = the "Human Knowledge Foundation Project," the first concrete engineering effort that this inquiry *logically forced into existence*.
+>
+> If you only care about the engineering, jump straight to the methodology and data. But if you want to understand **"why this specific thing, and how big its ambition really is,"** please read the **[`docs/philosophical_background/`](docs/philosophical_background/README.md)** directory first—especially the opening essay (currently in Chinese). Otherwise you may mistake it for "just another AI knowledge graph" and severely underestimate it.
+
 > **⚠️ Origin & Reader's Guide**  
 > This project was incubated from a deep, highly intuitive, and personal exploration into the "nature of intelligence." The original thoughts are like a "scout squad" sent out before the regular scientific army arrives; they inevitably contain areas that are not fully rigorous.  
 > Therefore, whether reading the philosophical origins of this project or participating in future mining work, we advocate a **"gold-miner's mindset"**—do not read this with the strict expectations of a textbook. Instead, act like a miner searching for glowing objects in a pile of rubble, keenly capturing those valuable sparks of cognition, and then refining and validating them using scientific engineering methods.
 
 This project aims to transform implicit pre-existing knowledge into a computable, verifiable network of atomic concepts.
+
+## The Intellectual Core: The Nature of Intelligence (One-Paragraph Why)
+
+The logical chain behind this project can be compressed into a single line:
+
+> **The essence of intelligence is "efficiency"** (building and using models under resource constraints) → **knowledge is an edifice built on a foundation of L0–L4 "implicit assumptions"** → **the essence of a scientific revolution is "conflict-driven reconstruction" when the foundation cracks** → **and the essence of "understanding" is "decoupling" coupled phenomena into independent variables and premises** → **therefore, systematically reverse-engineering and decoupling the implicit assumptions of human knowledge turns "scientific discovery" from an accidental stroke of genius into an engineerable "foundation mining" operation.**
+
+The product of that final step is the **Human Knowledge Foundation Project**. The full unfolding lives in [`docs/philosophical_background/`](docs/philosophical_background/README.md).
 
 ## Repository Structure
 
@@ -34,9 +51,13 @@ human-knowledge-foundation/
 ├── CODE_OF_CONDUCT.md         # Community code of conduct (WIP)
 │
 ├── docs/                      # Core theory & documentation
-│   ├── philosophical_background/ # Philosophical background
-│   │   └── 智能的本质_最终精要.md # Project origin and philosophical core (ZH)
-│   ├── methodology/           # Methodology: Multi-LLM consensus, assumption layers
+│   ├── philosophical_background/ # [THE CORE] The Nature of Intelligence — the source of it all
+│   │   ├── README.md                                  # Core reading guide (start here)
+│   │   ├── 00_项目缘起_从智能的本质到知识地基.md        # Origin story: the "why" (ZH)
+│   │   ├── 01_智能的本质_最终精要.md                   # The full synthesis (ZH)
+│   │   ├── 02_理解的新定义_解耦与因果.md               # Understanding = decoupling (ZH)
+│   │   └── 03_体验是价值权重_痛苦快乐不是玄学.md         # Experience is not mysticism (ZH)
+│   ├── methodology/           # Methodology: probe systems, assumption layers, evidence gates
 │   ├── similar_projects.md    # Analysis of similar projects & frontiers (e.g., PIEVO)
 │   └── taxonomy/              # Domain taxonomy & concept classification
 │
@@ -67,8 +88,8 @@ human-knowledge-foundation/
 
 ## Getting Started
 
-1. Read the [Whitepaper Framework (WHITEPAPER_FRAMEWORK.md)](WHITEPAPER_FRAMEWORK.md) to understand the full picture and methodology of the project.
-2. Read our reflections on the nature of intelligence in the `docs/philosophical_background/` folder to understand the project's intellectual origins.
+1. **Read the core first**: Start with the [`docs/philosophical_background/`](docs/philosophical_background/README.md) directory to understand *why this project was bound to emerge*. This is what truly determines how you judge its value. (Core essays are currently in Chinese.)
+2. Read the [Whitepaper Framework (WHITEPAPER_FRAMEWORK.md)](WHITEPAPER_FRAMEWORK.md) to understand the full picture and methodology of the project.
 3. Check the [Recruitment Notice (RECRUITMENT.md)](RECRUITMENT.md) to see how you can contribute.
 4. Fork this repository and start extracting your first "Assumption Card"!
 
