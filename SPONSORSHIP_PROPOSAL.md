@@ -1,55 +1,57 @@
-# 人类知识地基计划：开放研究赞助说明
-**(Human Knowledge Foundation: Sponsorship Proposal)**
+# Human Knowledge Foundation: Sponsorship Proposal
+**(人类知识地基计划：开放研究赞助说明)**
 
-## 🌟 核心愿景：我们在做什么？
-几个世纪以来，人类科学的重大突破往往像是在黑夜中探险，高度依赖极少数天才的灵光一现。
-**“人类知识地基计划”** 旨在利用大语言模型（LLMs），将科学发现转化为一项**系统化的“地基采矿”工程**。我们的目标是逆向拆解、梳理出支撑全人类自然科学与数学大厦的全部“基本假设”与“隐含假设”，构建一个可计算的底层概念网络。
+[English](SPONSORSHIP_PROPOSAL.md) | [简体中文](SPONSORSHIP_PROPOSAL_zh.md)
 
-## 💡 为什么值得支持？
-* **AI for Science 的新范式**：未来的大模型不应仅仅是百科全书，它需要深入理解物理法则的“地基”。本计划的产出将为未来的“AI 自动科学发现”提供极其宝贵的底层训练数据和逻辑图谱。
-* **独立的底层思考**：打破学术界的常规条框，以“淘金者”的心态、工程化的方法，直击智能与宇宙运作的第一性原理。
+## 🌟 Core Vision: What Are We Doing?
+For centuries, major breakthroughs in human science have resembled explorations in the dark—highly dependent on the accidental flashes of genius from a few individuals.
+The **"Human Knowledge Foundation Project"** aims to utilize Large Language Models (LLMs) to transform scientific discovery into a **systematic "bedrock mining" engineering project**. Our goal is to reverse-engineer and map all "fundamental assumptions" and "implicit assumptions" that support the entire edifice of human natural science and mathematics, building a computable network of foundational concepts.
 
-## 🚀 当前阶段与成果
-本项目目前处于**个人原型探索期**。
-我们已经完成了一场长达十余万字的极限思辨，并沉淀出了：
-1. **《智能的本质：最终精要》**（提炼了智能的底层法则与多智能体架构）
-2. **长文本梳理工作流与方法论**（一套成熟的、防信息蒸发的超长文本大模型分析框架）
+## 💡 Why Support Us?
+* **A New Paradigm of AI for Science**: Future models should not merely be encyclopedias; they need to deeply understand the "bedrock" of physical laws. The outputs of this project will provide extremely valuable training data and logical graphs for future "AI-automated scientific discovery."
+* **Independent Bedrock Thinking**: Breaking away from the conventional boundaries of academia, we approach the first principles of intelligence and the universe with a "gold-miner's" attitude and an engineering methodology.
 
-## 🎯 我们需要什么支持？
-本项目由独立研究者发起，目前全职投入。为了让研究能够毫无后顾之忧地持续推进，我们需要两种形式的赞助：
-1. **模型算力支持**：大量调用顶尖大模型（API Token）进行并发逆向推演和交叉校验。
-2. **个人研究者津贴**：维持日常生存运转的基础生活保障，确保能 100% 聚焦于理论探索与自动化脚本开发。
+## 🚀 Current Stage & Achievements
+This project is currently in the **personal prototype exploration phase**.
+We have completed a rigorous, long-term conceptual deduction of over 100,000 words and have crystallized:
+1. **"The Nature of Intelligence: Final Synthesis"** (extracting the underlying laws of intelligence and multi-agent mental architectures).
+2. **Long-text analysis workflow and methodology** (a mature, information-loss-proof LLM analysis framework for ultra-long texts).
 
----
-
-## 🤝 赞助档位与回馈
-
-### A. 模型额度赞助 (面向 AI 公司、云厂商、API 平台)
-我们急需各平台的 API 额度（Token 充值卡）、免费调用并发量或 GPU 云服务器时长。
-* **回馈**：
-  * 在 GitHub 主页与最终研究报告的最醒目位置，列为**“官方算力/模型合作伙伴”**。
-  * 提供一份基于贵公司模型的“知识地基梳理样例与评测报告”，展示贵模型在极限逻辑推理上的能力。
-
-### B. 开放研究津贴 (面向个人、企业老板、技术信仰者)
-如果您认可“第一性原理”与“野生极客”的探索价值，欢迎提供独立研究津贴：
-
-* **☕ 探险支持者 (100元 / 月 或 单次打赏)**
-  * **回馈**：您的名字将永久展示在 GitHub 仓库的“核心致谢名单”中。
-* **📚 知识合伙人 (500元 / 月)**
-  * **回馈**：致谢名单 + 每月发送一份专属的《研究进展与深度洞察简报》（包含未公开的思考火花和 AI 调优心得）。
-* **🛠️ 早期布道者 (2000元 / 月 或 单次赞助)**
-  * **回馈**：包含以上所有 + 加入核心微信交流群，您可以随时就“智能本质”或大模型应用与作者进行一对一的深度在线探讨。
-* **🚀 联合发起机构/个人 (5000元 / 月 或 专项合作)**
-  * **回馈**：列为项目“联合发起人”。我们可以针对您或贵公司感兴趣的具体科学/技术领域，专门定制并输出一份“该领域的底层假设梳理样例”，供您作为企业知识库或研究工具使用。
+## 🎯 What Support Do We Need?
+This project was initiated by an independent researcher who is currently dedicated full-time. To ensure that the research can proceed without worries, we need two forms of sponsorship:
+1. **Model Compute Support**: Large-scale API calls to top-tier LLMs for concurrent reverse-deduction and cross-validation.
+2. **Personal Research Stipend**: Basic living security to sustain daily operations, ensuring 100% focus on theoretical exploration and automation script development.
 
 ---
 
-## 📬 联系方式与参与通道
-这不仅是一次赞助，更是一张通往下一代认知革命前哨站的船票。
-哪怕只是极小额的支持，都是对独立探索精神的最大肯定。
+## 🤝 Sponsorship Tiers & Benefits
 
-* **项目 GitHub 地址**：[您的 GitHub 链接]
-* **微信 / 联系电话**：[您的微信号/邮箱]
-* **国内赞助通道 (微信/支付宝/爱发电)**：[附上您的收款码链接或爱发电主页]
+### A. Model Credit Sponsorship (For AI Companies, Cloud Vendors, API Platforms)
+We urgently need API credits (Token cards), free concurrent call quotas, or GPU cloud server hours from various platforms.
+* **Benefits**:
+  * Permanently listed as an **"Official Compute/Model Partner"** in the most prominent positions on the GitHub homepage and in the final research reports.
+  * Provide a "Knowledge Bedrock Mapping Sample and Evaluation Report" based on your company's model, showcasing its capabilities in extreme logical reasoning.
 
-> **“在浩瀚的宇宙中，我们不仅要仰望星空，更要看清脚下站立的每一块基石。”**
+### B. Open Research Stipend (For Individuals, Business Owners, Tech Believers)
+If you recognize the value of "first principles" and "independent geeks," you are welcome to provide an independent research stipend:
+
+* **☕ Explorer Supporter (100 RMB / month or one-time donation)**
+  * **Benefits**: Your name will be permanently displayed in the "Core Acknowledgments" section of the GitHub repository.
+* **📚 Knowledge Partner (500 RMB / month)**
+  * **Benefits**: Acknowledgments + Monthly delivery of an exclusive "Research Progress & Deep Insight Briefing" (containing unpublished sparks of thought and AI optimization tips).
+* **🛠️ Early Evangelist (2000 RMB / month or one-time sponsorship)**
+  * **Benefits**: All of the above + Join the core WeChat communication group, where you can conduct one-on-one deep online discussions with the author regarding the "nature of intelligence" or LLM applications at any time.
+* **🚀 Co-founder Institution/Individual (5000 RMB / month or special collaboration)**
+  * **Benefits**: Listed as a "Project Co-founder." We can customize and output a "Bedrock Assumption Mapping Sample" for a specific scientific/technical field of interest to you or your company, for use as a corporate knowledge base or research tool.
+
+---
+
+## 📬 Contact & Participation Channels
+This is not just a sponsorship, but a ticket to the outpost of the next cognitive revolution.
+Even the smallest amount of support is the greatest affirmation of the spirit of independent exploration.
+
+* **Project GitHub Repository**: [https://github.com/wpq3142/human-knowledge-foundation](https://github.com/wpq3142/human-knowledge-foundation)
+* **WeChat / Email**: [Your WeChat/Email] *(Please replace as needed)*
+* **Sponsorship Channel (WeChat/Alipay/Afdian)**: [Link to your payment QR code or Afdian homepage] *(Please replace as needed)*
+
+> "In the vast universe, we must not only look up at the stars, but also see clearly every bedrock we stand on."

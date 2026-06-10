@@ -1,40 +1,42 @@
-# 招募文案 (Recruitment Notice)
+# Recruitment Notice (招募文案)
 
-## 寻人启事：招募人类知识的“地基掘金者”与“建筑师”
+[English](RECRUITMENT.md) | [简体中文](RECRUITMENT_zh.md)
 
-### 🌟 我们在做一件什么事？
-几个世纪以来，人类科学的重大突破往往像是在黑夜中探险——高度依赖牛顿、爱因斯坦这样少数天才的灵光一现。我们称之为伟大的“范式革命”。
+## Seeking "Bedrock Gold-Miners" and "Architects" of Human Knowledge
 
-**但如果，科学发现可以变成一项系统性的“采矿工程”呢？**
+### 🌟 What Are We Doing?
+For centuries, major breakthroughs in human science have resembled explorations in the dark—highly dependent on the accidental flashes of genius from a few individuals like Newton and Einstein. We call these great "paradigm shifts."
 
-在最新一波 AI 浪潮的推动下，我们发起了**“人类知识地基计划” (Human Knowledge Foundation Project)**。我们的目标极其宏大却又极度脚踏实地：**利用 AI 技术，系统性地逆向拆解、梳理出支撑全人类自然科学与数学大厦的全部“基本假设”与“隐含假设”。**
+**But what if scientific discovery could become a systematic "mining engineering" process?**
 
-我们要将那些隐藏在教科书背后的、被视为“天经地义”的基石一块块挖出来，暴露在阳光下。当所有知识的地基变成一张可被 AI 理解和计算的依赖图谱时，下一次科学突破，将不再是偶然。
+Driven by the latest wave of AI, we have launched the **"Human Knowledge Foundation Project" (人类知识地基计划)**. Our goal is extremely ambitious yet deeply grounded: **to utilize AI technologies to systematically reverse-engineer and map all "fundamental assumptions" and "implicit assumptions" that support the entire edifice of human natural science and mathematics.**
 
-### 🧠 我们的核心理念
-本项目建立在对“智能本质”的深度哲学与工程思考之上：
-1. **智能的本质是效率**。
-2. 科学发展是由**“冲突驱动重构”**主导的。当高层理论无法解释现实时，我们需要回溯并替换最底层的基石（就像狭义相对论颠覆了绝对时空观）。
-3. 我们将采用**“多模型客观共识”**机制，让全球最顶尖的 LLMs（GPT, Claude, Gemini, DeepSeek等）进行客观辩论与提取，剔除人类主观盲区。
+We want to dig out those bedrocks hidden behind textbooks, which are taken for granted, and expose them to the sunlight. When the foundation of all knowledge becomes a dependency graph understandable and computable by AI, the next scientific breakthrough will no longer be an accident.
 
-### 🤝 我们需要谁？
-无论你身处何方，只要你对“智能的本质”与“宇宙的底层逻辑”充满好奇，你都可以成为我们的一员：
+### 🧠 Our Core Philosophy
+This project is built upon deep philosophical and engineering reflections on the "nature of intelligence":
+1. **The nature of intelligence is efficiency**.
+2. Scientific development is driven by **"conflict-driven reconstruction"**. When high-level theories cannot explain reality, we must trace back and replace the lowest-level bedrocks (just as special relativity overturned the absolute view of space and time).
+3. We will adopt a **"Multi-Model Objective Consensus"** mechanism, allowing the world's top LLMs (GPT, Claude, Gemini, DeepSeek, etc.) to conduct objective debates and extractions, eliminating human subjective blind spots.
 
-* **领域极客 (Domain Experts)**：物理学、数学或任何自然科学背景。你的任务是对 AI 挖掘出的“假设卡片”进行最终的人类智慧把关和专业判定。
-* **AI 驯兽师 (Prompt Engineers & AI Developers)**：精通大语言模型调教，或者擅长编写自动化脚本、Agent 流水线。我们需要你设计最犀利的工具，逼大模型吐出隐藏最深的逻辑链。
-* **哲学思考者 (Philosophers)**：具有极强的逻辑拆解能力和批判性思维，能够从繁杂的信息中一眼看穿“隐藏的预设前提”。
-* **开源建设者 (Open Source Contributors)**：擅长文档编写、社区运营、GitHub 项目维护，帮助我们将这件复杂的事情管理得井井有条。
+### 🤝 Who Do We Need?
+No matter where you are, as long as you are full of curiosity about the "nature of intelligence" and the "underlying logic of the universe," you can become one of us:
 
-### 🚀 你将获得什么？
-1. **站在认知的最前沿**：你将第一时间看到人类知识的地基被数字化解构的全过程。
-2. **和最强的 AI 并肩作战**：这不是简单地使用 AI，而是将 AI 作为外脑，共同建立一套前所未有的“知识探雷器”。
-3. **改变科学探索的范式**：如果这个项目成功，哪怕只是完成了一小部分，都将为未来的“AI 自动科学发现 (AI for Science)”奠定最坚实的数据和理论基础。
+* **Domain Experts**: Background in physics, mathematics, or any natural science. Your task is to perform the final human judgment and professional validation of the "Assumption Cards" mined by AI.
+* **AI Tamer (Prompt Engineers & AI Developers)**: Proficient in fine-tuning and prompting Large Language Models, or skilled in writing automation scripts and Agent pipelines. We need you to design the sharpest tools to compel LLMs to output their deepest logical chains.
+* **Philosophical Thinkers**: Possess strong logical deconstruction skills and critical thinking, capable of seeing through complex information to identify "hidden pre-existing assumptions" at a glance.
+* **Open Source Contributors**: Skilled in document writing, community operations, and GitHub project maintenance, helping us keep this complex endeavor well-organized.
 
-### 📢 如何加入我们？
-本项目刚刚启动第一步，一切都在开源社区中生长。
+### 🚀 What Will You Get?
+1. **Stand at the Frontier of Cognition**: You will witness firsthand the entire process of the foundation of human knowledge being digitally deconstructed.
+2. **Work Side-by-Side with the Strongest AI**: This is not just about using AI, but using AI as an external brain to jointly build an unprecedented "knowledge mine detector."
+3. **Change the Paradigm of Scientific Exploration**: If this project succeeds, even if only partially, it will lay the most solid data and theoretical foundation for future "AI-automated scientific discovery (AI for Science)."
+
+### 📢 How to Join Us?
+This project has just taken its first step, and everything is growing in the open-source community.
 * **GitHub Repository:** [https://github.com/wpq3142/human-knowledge-foundation](https://github.com/wpq3142/human-knowledge-foundation)
-* **加入讨论:** 欢迎在 GitHub 提交 Issue，或者阅读我们刚刚完稿的《智能的本质：最终精要》背景文档。
+* **Join the Discussion:** Welcome to submit Issues on GitHub, or read our newly completed background document, "The Nature of Intelligence: Final Synthesis."
 
-> “在浩瀚的宇宙中，我们不仅要仰望星空，更要看清脚下站立的每一块基石。”
+> "In the vast universe, we must not only look up at the stars, but also see clearly every bedrock we stand on."
 > 
-> —— 人类知识地基计划，期待你的加入。
+> —— Human Knowledge Foundation Project, looking forward to your joining.

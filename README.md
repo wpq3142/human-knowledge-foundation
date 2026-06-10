@@ -1,68 +1,79 @@
 # Human Knowledge Foundation Project (人类知识地基计划)
 
+English | [简体中文](README_zh.md)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## 项目简介 (Introduction)
+## Introduction
 
-欢迎来到**人类知识地基计划**！本项目致力于利用人工智能技术，系统化、工程化地梳理支撑全人类自然科学与数学知识大厦的“基本假设”和“隐含假设”。
+Welcome to the **Human Knowledge Foundation Project**! This project is dedicated to utilizing artificial intelligence technologies to systematically and programmatically map the "fundamental assumptions" and "implicit assumptions" that support the grand edifice of human scientific and mathematical knowledge.
 
-我们将探索科学发现的新范式：从“天才的偶然探险”转向“AI 辅助的系统化采矿”。
+We aim to explore a new paradigm of scientific discovery: shifting from "accidental exploration by geniuses" to "systematic mining assisted by AI."
 
-> **⚠️ 孵化渊源与读者指南**  
-> 本项目由对“智能本质”的一场深度但带有个人探索色彩的直觉思辨孵化而来。原始思想就像是科学正规军到来前派出的“前哨小分队”，难免存在不够严密之处。
-> 因此，无论是阅读本项目的思想起源，还是参与未来的采矿工作，我们都倡导一种**“淘金者心态”**——不要抱着阅读教科书般严苛的心态来求全责备，而应像在杂物堆中翻找发光物品一样，敏锐地捕捉那些有价值的认知火花，并用科学工程的方法将其提纯验证。
+> **⚠️ Origin & Reader's Guide**  
+> This project was incubated from a deep, highly intuitive, and personal exploration into the "nature of intelligence." The original thoughts are like a "scout squad" sent out before the regular scientific army arrives; they inevitably contain areas that are not fully rigorous.  
+> Therefore, whether reading the philosophical origins of this project or participating in future mining work, we advocate a **"gold-miner's mindset"**—do not read this with the strict expectations of a textbook. Instead, act like a miner searching for glowing objects in a pile of rubble, keenly capturing those valuable sparks of cognition, and then refining and validating them using scientific engineering methods.
 
-本项目旨在将隐性的前置知识变为一张可计算、可验证的原子概念网络。
+This project aims to transform implicit pre-existing knowledge into a computable, verifiable network of atomic concepts.
 
-## 目录结构 (Repository Structure)
+## Repository Structure
 
 ```text
 human-knowledge-foundation/
-├── README.md                  # 项目主页与导航
-├── WHITEPAPER_FRAMEWORK.md    # 项目白皮书框架（核心愿景与理论基础）
-├── RECRUITMENT.md             # 寻人启事与招募文案
-├── LICENSE                    # 开源协议 (建议采用 CC BY-SA 4.0)
-├── CONTRIBUTING.md            # 贡献指南 (WIP)
-├── CODE_OF_CONDUCT.md         # 社区行为准则 (WIP)
+├── README.md                  # Project homepage & navigation (English)
+├── README_zh.md               # Project homepage & navigation (Chinese)
+├── WHITEPAPER_FRAMEWORK.md    # Whitepaper framework (English)
+├── WHITEPAPER_FRAMEWORK_zh.md # Whitepaper framework (Chinese)
+├── RECRUITMENT.md             # Recruitment notice (English)
+├── RECRUITMENT_zh.md          # Recruitment notice (Chinese)
+├── SPONSORSHIP_PROPOSAL.md    # Sponsorship proposal (English)
+├── SPONSORSHIP_PROPOSAL_zh.md # Sponsorship proposal (Chinese)
+├── LICENSE                    # Open-source license (CC BY-SA 4.0)
+├── CONTRIBUTING.md            # Contribution guidelines (WIP)
+├── CODE_OF_CONDUCT.md         # Community code of conduct (WIP)
 │
-├── docs/                      # 核心理论与文档
-│   ├── philosophical_background/ # 哲学与智能本质背景库
-│   │   └── 智能的本质_最终精要.md # 项目思想发源与哲学背景
-│   ├── methodology/           # 方法论：多模型共识提取指南、假设分层说明
-│   ├── similar_projects.md    # 类似项目与学术前沿（如 PIEVO）梳理
-│   └── taxonomy/              # 知识大类与概念分类法
+├── docs/                      # Core theory & documentation
+│   ├── philosophical_background/ # Philosophical background
+│   │   └── 智能的本质_最终精要.md # Project origin and philosophical core (ZH)
+│   ├── methodology/           # Methodology: Multi-LLM consensus, assumption layers
+│   ├── similar_projects.md    # Analysis of similar projects & frontiers (e.g., PIEVO)
+│   └── taxonomy/              # Domain taxonomy & concept classification
 │
-├── data/                      # 核心数据产出区
-│   ├── L0_sensory_instincts/  # L0级：感官与本能假设
-│   ├── L1_basic_logic/        # L1级：基础逻辑假设
-│   ├── L2_mathematics/        # L2级：数学公理体系
-│   └── L3_natural_sciences/   # L3级：自然科学隐含假设 (分物理、化学等)
+├── data/                      # Core data output area
+│   ├── L0_sensory_instincts/  # Level 0: Sensory & instinct assumptions
+│   ├── L1_basic_logic/        # Level 1: Basic logical assumptions
+│   ├── L2_mathematics/        # Level 2: Mathematical axiom systems
+│   ├── L3_natural_sciences/   # Level 3: Natural science implicit assumptions (Physics, Chemistry, etc.)
+│   │   └── physics/
+│   │       └── KFA-L3-PHYS-001_牛顿第一定律.md # First assumption card sample (ZH)
+│   │
+│   └── templates/             # Templates & specifications for assumption cards
 │
-├── scripts/                   # 自动化工具链
-│   ├── extraction_agents/     # 用于多模型并发提问和提取的 Agent 脚本
-│   └── validation_tools/      # 格式校验与逻辑回查工具
+├── scripts/                   # Automation toolchain
+│   ├── extraction_agents/     # Agent scripts for multi-LLM concurrent extraction
+│   └── validation_tools/      # Format validation & logical check tools
 │
-└── community/                 # 社区互动与记录
-    ├── meeting_notes/         # 讨论与会议记录
-    └── contributors.md        # 贡献者致谢名单
+└── community/                 # Community interaction & records
+    ├── meeting_notes/         # Discussion & meeting notes
+    └── contributors.md        # Contributor acknowledgment list
 ```
 
-## 核心理念 (Core Philosophy)
+## Core Philosophy
 
-* **客观祛魅**：采用多厂商大模型（Multi-LLM）客观辩论机制，剥离人类中心主义与单一模型的偏差。
-* **假设即基石**：所有复杂的知识大厦皆建立在不可证的公理和隐含假设之上。找到假设，即找到范式跃迁的钥匙。
-* **开源共建**：相信群体智慧与机器智能的结合，让最坚固的地基开放给所有人审阅。
+* **Objective Demystification**: Utilizing a multi-vendor LLM (Multi-LLM) objective debate mechanism to strip away anthropocentrism and single-model biases.
+* **Assumptions as Bedrocks**: All complex edifices of knowledge are built on unprovable axioms and implicit assumptions. Finding these assumptions is the key to paradigm shifts.
+* **Open-Source Collaboration**: Believing in the power of combining collective human wisdom with machine intelligence, making the most solid foundations of knowledge open for everyone to review.
 
-## 快速开始 (Getting Started)
+## Getting Started
 
-1. 阅读 [白皮书框架 (WHITEPAPER_FRAMEWORK.md)](WHITEPAPER_FRAMEWORK.md) 了解项目的全景图和方法论。
-2. 阅读我们在智能领域的思考结晶，理解项目的思想起源。
-3. 查阅 [招募文案 (RECRUITMENT.md)](RECRUITMENT.md) 查看你能如何贡献力量。
-4. Fork 本仓库，开始你的第一张“假设卡片”提取！
+1. Read the [Whitepaper Framework (WHITEPAPER_FRAMEWORK.md)](WHITEPAPER_FRAMEWORK.md) to understand the full picture and methodology of the project.
+2. Read our reflections on the nature of intelligence in the `docs/philosophical_background/` folder to understand the project's intellectual origins.
+3. Check the [Recruitment Notice (RECRUITMENT.md)](RECRUITMENT.md) to see how you can contribute.
+4. Fork this repository and start extracting your first "Assumption Card"!
 
-## 参与贡献 (Contributing)
+## Contributing
 
-我们极度欢迎所有的思想者、程序员和领域专家加入！无论是提交 Issue 讨论理论、完善自动化脚本，还是协助审查某条物理假设的严谨性，你的每一次提交都在加固人类知识的地基。
+We warmly welcome all thinkers, programmers, and domain experts to join us! Whether submitting an issue to discuss theory, refining automation scripts, or helping review the rigor of a physical assumption, every contribution you make strengthens the foundation of human knowledge.
 
-（详细的贡献流程文档即将上线，敬请期待。）
+*(Detailed contribution guidelines will be available soon.)*
