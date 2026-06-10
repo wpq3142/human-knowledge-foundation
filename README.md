@@ -7,32 +7,29 @@ English | [简体中文](README_zh.md)
 
 ## Introduction
 
-Welcome to the **Human Knowledge Foundation Project**! This project is dedicated to utilizing artificial intelligence technologies to systematically and programmatically map the "fundamental assumptions" and "implicit assumptions" that support the grand edifice of human scientific and mathematical knowledge.
+Welcome to the **Human Knowledge Foundation Project**.
 
-We aim to explore a new paradigm of scientific discovery: shifting from "accidental exploration by geniuses" to "systematic mining assisted by AI."
+The true source of this project is a months-long, 100,000+ word intellectual marathon on **"The Nature of Intelligence."** The "Human Knowledge Foundation Project" you see here is the first engineering product that naturally landed once that inquiry was pushed to its conclusion. **"The Nature of Intelligence" is the core and the source; the "Human Knowledge Foundation Project" is the fruit it bears.**
 
-> **🧭 Read This First: The Core vs. The Product**
+> **🧭 Start here: [Origin Story: From "The Nature of Intelligence" to "The Human Knowledge Foundation"](docs/philosophical_background/00_项目缘起_从智能的本质到知识地基.md)** (currently in Chinese)
 >
-> Many people assume the "Human Knowledge Foundation Project" is the protagonist of this repository. **In fact, it is merely a product.**
->
-> - **The Core (the source)** = a months-long, 100,000+ word intellectual marathon on **"The Nature of Intelligence."**
-> - **The Product (the landing)** = the "Human Knowledge Foundation Project," the first concrete engineering effort that this inquiry *logically forced into existence*.
->
-> If you only care about the engineering, jump straight to the methodology and data. But if you want to understand **"why this specific thing, and how big its ambition really is,"** please read the **[`docs/philosophical_background/`](docs/philosophical_background/README.md)** directory first—especially the opening essay (currently in Chinese). Otherwise you may mistake it for "just another AI knowledge graph" and severely underestimate it.
+> It lays out the full context: why intelligence is "efficiency," why knowledge is an edifice built on a foundation of "implicit assumptions," and why "systematically mining those foundations" becomes something that *had* to be done. **Reading this source first, then the engineering and data that follow, is the right way to understand this project.**
 
-> **⚠️ Origin & Reader's Guide**  
-> This project was incubated from a deep, highly intuitive, and personal exploration into the "nature of intelligence." The original thoughts are like a "scout squad" sent out before the regular scientific army arrives; they inevitably contain areas that are not fully rigorous.  
-> Therefore, whether reading the philosophical origins of this project or participating in future mining work, we advocate a **"gold-miner's mindset"**—do not read this with the strict expectations of a textbook. Instead, act like a miner searching for glowing objects in a pile of rubble, keenly capturing those valuable sparks of cognition, and then refining and validating them using scientific engineering methods.
+So, on the engineering level, what does this project actually do?
 
-This project aims to transform implicit pre-existing knowledge into a computable, verifiable network of atomic concepts.
+This project is dedicated to utilizing artificial intelligence to systematically and programmatically map the "fundamental assumptions" and "implicit assumptions" that support the grand edifice of human scientific and mathematical knowledge—exploring a new paradigm of scientific discovery: shifting from "accidental exploration by geniuses" to "systematic mining assisted by AI," and ultimately transforming implicit pre-existing knowledge into a computable, verifiable network of atomic concepts.
 
-## The Intellectual Core: The Nature of Intelligence (One-Paragraph Why)
+> **⚠️ Reader's Guide: A Gold-Miner's Mindset**  
+> The intellectual source of this project is a deeply intuitive, personal exploration—like a "scout squad" sent out before the regular scientific army arrives; it inevitably contains areas that are not fully rigorous.  
+> Therefore, whether reading the philosophical origins or participating in future mining work, we advocate a **"gold-miner's mindset"**—do not read this with the strict expectations of a textbook. Instead, act like a miner searching for glowing objects in a pile of rubble, keenly capturing those valuable sparks of cognition, and then refining and validating them using scientific engineering methods.
 
-The logical chain behind this project can be compressed into a single line:
+## The Intellectual Core at a Glance (One-Paragraph Why)
+
+If we compress the logical chain of the "Origin Story" into a single line:
 
 > **The essence of intelligence is "efficiency"** (building and using models under resource constraints) → **knowledge is an edifice built on a foundation of L0–L4 "implicit assumptions"** → **the essence of a scientific revolution is "conflict-driven reconstruction" when the foundation cracks** → **and the essence of "understanding" is "decoupling" coupled phenomena into independent variables and premises** → **therefore, systematically reverse-engineering and decoupling the implicit assumptions of human knowledge turns "scientific discovery" from an accidental stroke of genius into an engineerable "foundation mining" operation.**
 
-The product of that final step is the **Human Knowledge Foundation Project**. The full unfolding lives in [`docs/philosophical_background/`](docs/philosophical_background/README.md).
+The full unfolding of this chain lives in the [Origin Story](docs/philosophical_background/00_项目缘起_从智能的本质到知识地基.md) and the entire [`docs/philosophical_background/`](docs/philosophical_background/README.md) directory.
 
 ## Repository Structure
 
